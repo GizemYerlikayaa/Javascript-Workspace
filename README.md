@@ -1,0 +1,2 @@
+- Javascript öğrenirken yazdığım kodlardan oluşuyor, her bir alt başlıktaki yeni konuya geçişimde eski kodlarımı yorum satırına alarak altına kodlarımı yazmaya devam ettim ve gerekli kısımlarda hatırlatıcı notlar ekledim.
+- Kodlarımda farklı renklerdeki yorum satırlarının oluşmasını sağlamak ve bu renk farklılıkları ile konu başlığı, dikkat edilmesi gereken kısımlar şeklinde ayrım sağlamak için VS Code'un Better Comments eklentisini ekledim, kodların çalışması için eklentiyi eklemeniz gerekir.
